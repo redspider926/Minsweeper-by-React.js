@@ -1,0 +1,23 @@
+.board-container {
+  width: 500px;
+  border-radius: 20px;
+  border-color: brown;
+  display: inline-block;
+  align-self: center;
+  background-color: rgb(193, 193, 255);
+  margin: "auto";
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-bottom: 4px;
+}
+
+.board-header {
+  background-color: #333;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  font-size: 18px;
+}
